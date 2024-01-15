@@ -2,7 +2,7 @@
 # Next Auth Tutorial Video
 - This code was used to teach programmers how to use NextAuth/Auth.js with Next.js.
 - The YouTube Version can be found by clicking on the link above.
-- An FREE! Updated version can be found on Udemy by clicking the link <a href="https://www.udemy.com/course/nextauth-nextjs-cc/?couponCode=C9622654181134A4AE79!" target="_blank">Free Udemy Course</a>
+- An FREE! Updated version can be found on Udemy by clicking the link <a href="https://www.udemy.com/course/nextauth-nextjs-cc/?couponCode=C9622654181134A4AE79" target="_blank">Free Udemy Course</a>
 
 ## What will you learn?
 - Seamless NextAuth / AuthJS Implementation - Learn to effortlessly integrate AuthJS (NextAuth) for streamlined authentication in your NextJS applications.
