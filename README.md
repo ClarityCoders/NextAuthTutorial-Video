@@ -1,4 +1,4 @@
-<a href="https://youtu.be/GS_0ZKzrvk0" target="_blank"><img src="https://www.claritycoders.com/_next/image?url=%2FClarityCodersAlpha.png" title="Clarity Coders YouTube" /></a>
+<a href="https://youtu.be/GS_0ZKzrvk0" target="_blank"><img src="https://www.claritycoders.com/_next/image?url=%2FClarityCodersAlpha.png&w=256&q=75" title="Clarity Coders YouTube" /></a>
 # Next Auth Tutorial Video
 > This code was used to teach programmers how to use NextAuth/Auth.js with Next.js.
 > The YouTube Version can be found by clicking on the link above.
